@@ -1,0 +1,12 @@
+{
+  "name": "running-calculator",
+  "version": "1.0.0",
+  "description": "A simple running calculator application using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
